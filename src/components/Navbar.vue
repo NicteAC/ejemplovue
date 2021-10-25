@@ -1,6 +1,6 @@
 <template>
   <div>
-      <div class="navbar">creando el navbar</div>
+      <div class="navbar">arreglamos errores en los cambios</div>
   </div>
 </template>
 
