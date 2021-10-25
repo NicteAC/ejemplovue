@@ -1,7 +1,7 @@
 <template>
-  <div>
-      <div class="navbar">creando el navbar</div>
-  </div>
+<h1>
+    footer pero no es el footer
+</h1>
 </template>
 
 <script>
