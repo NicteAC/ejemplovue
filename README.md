@@ -1,5 +1,7 @@
 # ejemplovue
 
+Clase de ayudantia Github para la G9
+
 ## Project setup
 ```
 yarn install
